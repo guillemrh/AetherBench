@@ -1,3 +1,7 @@
 node_modules
 dist
 *.local
+
+# Claude Code files
+CLAUDE.md
+.claude/
